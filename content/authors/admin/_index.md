@@ -10,7 +10,7 @@ first_name: Sampratikshya
 last_name: Das
 
 # Status emoji
-status: '\\(^.^)//'
+status:
   icon: 😊
 
 # Is this the primary user of the site?
