@@ -3,14 +3,14 @@
 title: 
 
 # Name pronunciation (optional)
-name_pronunciation: 
+name_pronunciation: sum-pra-tik-shya
 
 # Full name (for SEO)
 first_name: Sampratikshya
 last_name: Das
 
 # Status emoji
-status:
+status: \\(^.^)//
   icon: 😊
 
 # Is this the primary user of the site?
@@ -25,13 +25,14 @@ organizations:
     url: https://www.nitrkl.ac.in/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include biosensors, medical devices and biologically modified cat boys😉.
+bio: My research interests include biosensors, medical devices, diagnostic techniques, imaging and instrumentations.
 
 # Interests to show in About widget
 interests:
   - Biosensors
   - Medical devices
   - Medical diagnosis
+  - Medical Imaging and Instrumentation
 
 # Education to show in About widget
 education:
@@ -39,27 +40,33 @@ education:
     - course: BTech in Biomedical Engineering
       institution: National Institute of Technology, Rourkela
       year: 2024
-
+   
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 skills:
   - name: Technical
     items:
-      - name: Microsoft Office
-        description: 'Word, PowerPoint'
-        percent: 80
-        icon: microsoft
-        icon_pack: fab
-      - name: General Programming
-        description: 'MATLAB, Python'
-        percent: 60
-        icon: chart-line
-        icon_pack: fas
-      - name: Content Developer 
-        description: ''
+      - name: Operating System
+        description: 'Windows OS'
         percent: 80
         icon: pen
         icon_pack: fas
+      - name: Microsoft Office Suite
+        description: 'Word, PowerPoint, Publisher, OneNote, Teams'
+        percent: 80
+        icon: microsoft
+        icon_pack: fab
+      - name: General Programming and Microcontroller Programming
+        description: 'MATLAB, Python, Arduino IDE'
+        percent: 60
+        icon: chart-line
+        icon_pack: fas
+      - name: CAD and Graphic designing
+        description: 'AutoCAD, KiCAD, TinkerCAD, Canva, Inkscape, Ibis Paint'
+        percent: 80
+        icon: pen
+        icon_pack: fas
+
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -75,38 +82,67 @@ skills:
         icon: music
         icon_pack: fas
       - name: Books & Anime
-        description: 'Potterhead ⚡'
+        description: 'Potterhead ⚡, Otaku ◕⩊◕ and an Avid reader 👩🏻‍🏫'
         percent: 90
         icon: book
         icon_pack: fas
       - name: Travelling
-        description: ''
+        description: 'New places, cultures, people excite me!! 🧳'
         percent: 90
-        icon: tv
+        icon: plane-departure
         icon_pack: fas
   - name: Linguistics
     color: '#f27e1f'
     color_border: '#cc5f06'
     items:
       - name: English
-        description: ''
+        description: 'Medium of education for majority of my life'
         percent: 95
         icon: comment
         icon_pack: fas
       - name: Odia
-        description: ''
+        description: 'Native language, Mother tongue'
         percent: 100
         icon: gopuram
         icon_pack: fas
       - name: Hindi
-        description: ''
+        description: 'Optional language learnt at school'
         percent: 80
-        icon: om
+        icon: temple
         icon_pack: fas
       - name: Japanese
-        description: ''
-        percent: 90
+        description: 'Learnt out of interest for anime'
+        percent: 80
         icon: language
+        icon_pack: fas
+      - name: Sanskrit
+        description: 'Learnt out of interest for mythology'
+        percent: 80
+        icon: language
+        icon_pack: om
+  - name: Techniques
+    color: '#eeac02'
+    color_border: '#f0bf23'
+    items:
+      - name: Electrochemical Techniques
+        description: 'Cyclic Voltammetry (CV), Electrochemical Impedance Spectroscopy (EIS)'
+        percent: 90
+        icon: palette
+        icon_pack: fas
+      - name: Microscopy Techniques
+        description: 'Atomic Force Microscopy (AFM)'
+        percent: 70
+        icon: music
+        icon_pack: fas
+      - name: Spectroscopy Techniques
+        description: 'Fourier Transform Infra-Red (FTIR), Fluorescence Spectroscopy'
+        percent: 90
+        icon: book
+        icon_pack: fas
+      - name: Biosensing Techniques
+        description: 'Small-Molecule Microarray (SMMs) technology, Electrocardiogram (ECG), Electromyogram (EMG), Hemocytometer, Enzyme-Linked Immuno-Sorbent Assay (ELISA)'
+        percent: 90
+        icon: plane-departure
         icon_pack: fas
 
 # Social/Academic Networking
@@ -134,5 +170,4 @@ social:
 highlight_name: true
 ---
 
-Sampratikshya Das is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-{style="text-align: justify;"}
+Sampratikshya Das is a final-year student of Biomedical Engineering at the National Institute of Technology, Rourkela. With a fascination in the fields of bioelectronics, biomaterials, and medical diagnosis, Sampratikshya aspires to create innovative, non-invasive diagnostic devices while tackling related challenges in miniaturization and reliable electronics. During undergraduate studies, notable experiences include internships at MIT's Koch Institute, IIT Kharagpur, and ongoing research on non-invasive diagnosis of movement disorders.
